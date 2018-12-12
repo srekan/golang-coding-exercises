@@ -16,8 +16,9 @@ func main(){
   fmt.Println("Diameter     :", diameter)
 }
 
-/** Output - circle_diameter_and_circumference.go
+/** Output - 
 
+$ go run circle_diameter_and_circumference.go
 -----Find diameter and circumference of a circle-----
 Enter radius of circle (in meters): 5.5
 Radius       : 5.5

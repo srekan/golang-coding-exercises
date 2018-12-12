@@ -19,8 +19,9 @@ func main(){
   fmt.Println("Perimeter:", perimeter, "meters")
 }
 
-/** Output - rectangle_area_and_perimeter.go
+/** Output
 
+$ go run rectangle_area_and_perimeter.go
 -----Find Reactangle Area and Perimeter-----
 Enter length of rectangle (in meters): 2.5
 Enter breadth of rectangle (in meters): 5.5

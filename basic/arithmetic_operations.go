@@ -10,8 +10,9 @@ func main(){
   fmt.Printf("%d / %d = %.2f\n", a, b, (float64(a) / float64(b)))
 }
 
-/** Output - arithmetic_operations.go
+/** Output
 
+$ go run arithmetic_operations.go
 -----Arithmetic Operations-----
 25 + 2 = 27
 25 - 2 = 23
