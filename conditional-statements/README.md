@@ -13,7 +13,6 @@
 - [Program to input month number and print month name and number of days in that month](days_of_month.go)
 
 ## To be written
-- Program to count total number of notes in given amount
 - Program to input angles of a triangle and check whether triangle is valid or not
 - Program to input all sides of a triangle and check whether triangle is valid or not
 - Program to check whether the triangle is equilateral, isosceles or scalene triangle
