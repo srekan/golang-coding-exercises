@@ -1,8 +1,11 @@
 # Go Programming Exercises: if else statements
 - [Program to find maximum between two numbers](max_of_two_numbers.go)
+- [Program to find maximum between two numbers using functions](max_of_two_numbers_using_functions.go)
 - [Program to find maximum between three numbers](max_of_three_numbers.go)
+- [Program to find maximum between three numbers using functions](max_of_three_numbers_using_functions.go)
 - [Program to check whether a number is negative, positive or zero](find_number_sign.go)
 - [Program to check whether a number is divisible by 5 and 11 or not](is_divisible_by_5_and_11.go)
+- [Program to check whether a number is divisible by 5 and 11 or not using boolean operators](is_divisible_by_5_and_11_using_functions_using_bool.go)
 - [Program to check whether a number is even or odd](is_even_or_odd.go)
 - [Program to check whether a year is leap year or not](is_leap_year.go)
 - [Program to input any character and check whether it is alphabet, digit or special character](is_alphabet_or_digit.go)

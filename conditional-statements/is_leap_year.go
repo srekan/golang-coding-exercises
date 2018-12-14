@@ -9,19 +9,15 @@ else (it is a leap year
 */
 package main
 import "fmt"
-func main(){
-	var year int
-	fmt.Print("Enter year: ")
-	fmt.Scan(&year)
-
+func isLeapYear(year int)bool{
 	if(year % 4 != 0 ){
-		fmt.Println("Common Year")
+		return false
 	} else if(year % 100 != 0){
-		fmt.Println("Leap Year")
+		return true
 	} else if(year % 400 != 0){
-		fmt.Println("Common Year")
+		return false
 	} else {
-		fmt.Println("Leap Year")
+		return true
 	}
 
 	/*
@@ -35,6 +31,18 @@ func main(){
 		COMMON YEAR;
 	}
 	*/
+}
+func main(){
+	var year int
+	fmt.Print("Enter year: ")
+	fmt.Scan(&year)
+
+	if(isLeapYear(year)){
+		fmt.Println("Leap Year")
+	} else {
+		fmt.Println("Common Year")
+	}
+
 }
 
 /** Outputs
