@@ -13,12 +13,12 @@
 - [Program to check whether a character is uppercase or lowercase alphabet](is_upper_case.go)
 - [Program to input week number and print week day](print_week_day.go)
 - [Program to input week number and print week day using switch](print_week_day_using_switch.go)
+- [Program to input week number and print week day using an array](print_week_day_using_array.go)
 - [Program to input month number and print month name and number of days in that month](days_of_month.go)
-
+- [Program to input month number and print month name and number of days in that month using a map](days_of_month_using_map.go)
+- [Program to input angles of a triangle and check whether triangle is valid or not](is_valid_triangle.go)
+- [Program to check whether the triangle is equilateral, isosceles or scalene triangle](get_triangle_type.go)
 ## To be written
-- Program to input angles of a triangle and check whether triangle is valid or not
-- Program to input all sides of a triangle and check whether triangle is valid or not
-- Program to check whether the triangle is equilateral, isosceles or scalene triangle
 - Program to find all roots of a quadratic equation
 - Program to calculate profit or loss
 - Program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
