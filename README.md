@@ -5,3 +5,4 @@ Golang coding exercises uploaded while learning
 - [Basic](basic)
 - [Functions](functions)
 - [Conditional Statements](conditional-statements)
+- [Loops](loops)
