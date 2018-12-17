@@ -1,0 +1,54 @@
+# Golang Programming Exercises - Loops
+- [Program to print all natural numbers from 1 to n](natural_numbers.go)
+- [Program to print all natural numbers in reverse (from n to 1)](natural_numbers_in_reverse.go)
+- [Program to print all alphabets from a to z](print_alphabet.go)
+- [Program to print all even numbers between 1 to 100](print_evens_till_100.go)
+- [Program to print all odd number between 1 to 100](print_odds_till_100.go)
+- [Program to find sum of all natural numbers between 1 to n](sum_of_naturals.go)
+- [Program to find sum of all even numbers between 1 to n](sum_of_evens.go)
+- [Program to find sum of all odd numbers between 1 to n](sum_of_odds.go)
+- [Program to print multiplication table of any number](multiplication_table.go)
+- [Program to count number of digits in a number](multiplication_table.go)
+- [Program to find first and last digit of a number](digits_of_a_number.go)
+- [Program to swap first and last digits of a number](swap_digits_in_a_number.go)
+- [Program to calculate sum of digits of a number](sum_of_digits.go)
+- [Program to calculate product of digits of a number](product_of_digits.go)
+- [Program to enter a number and print its reverse](reverse_of_a_number.go)
+- [Program to check whether a number is palindrome or not](is_pallindrome.go)
+- [Program to find frequency of each digit in a given integer](frequency_of_digits.go)
+
+## To be written
+- Program to enter a number and print it in words
+- Program to print all ASCII character with their values
+- Program to find power of a number using for loop
+- Program to find all factors of a number
+- Program to calculate factorial of a number
+- Program to find HCF (GCD) of two numbers
+- Program to find LCM of two numbers
+- Program to check whether a number is Prime number or not
+- Program to print all Prime numbers between 1 to n
+- Program to find sum of all prime numbers between 1 to n
+- Program to find all prime factors of a number
+- Program to check whether a number is Armstrong number or not
+- Program to print all Armstrong numbers between 1 to n
+- Program to check whether a number is Perfect number or not
+- Program to print all Perfect numbers between 1 to n
+- Program to check whether a number is Strong number or not
+- Program to print all Strong numbers between 1 to n
+- Program to print Fibonacci series up to n terms
+
+- Program to find one's complement of a binary number
+- Program to find two's complement of a binary number
+- Program to convert Binary to Octal number system
+- Program to convert Binary to Decimal number system
+- Program to convert Binary to Hexadecimal number system
+- Program to convert Octal to Binary number system
+- Program to convert Octal to Decimal number system
+- Program to convert Octal to Hexadecimal number system
+- Program to convert Decimal to Binary number system
+- Program to convert Decimal to Octal number system
+- Program to convert Decimal to Hexadecimal number system
+- Program to convert Hexadecimal to Binary number system
+- Program to convert Hexadecimal to Octal number system
+- Program to convert Hexadecimal to Decimal number system
+- Program to print Pascal triangle upto n rows
