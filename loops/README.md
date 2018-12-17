@@ -15,26 +15,26 @@
 - [Program to calculate product of digits of a number](product_of_digits.go)
 - [Program to enter a number and print its reverse](reverse_of_a_number.go)
 - [Program to check whether a number is palindrome or not](is_pallindrome.go)
-- [Program to find frequency of each digit in a given integer](frequency_of_digits.go)
+- [Program to find frequency of each digit in a given integer - using a map](frequency_of_digits.go)
+- [Program to find frequency of each digit in a given integer - using an arrray](frequency_of_digits_using_array.go)
+- [Program to enter a number and print it in words](print_num_in_words.go)
+- [Program to print all ASCII character with their values](print_all_asii.go)
+- [Program to find power of a number](get_power.go)
+- [Program to find all factors of a number](find_factors.go)
+- [Program to calculate factorial of a number](factorial.go)
+- [Program to find HCF (GCD) of two numbers](gcd.go)
+- [Program to find LCM of two numbers](lcm.go)
+- [Program to check whether a number is Prime number or not](is_prime.go)
+- [Program to print all Prime numbers between 1 to 100](print_primes.go)
+- [Program to find all prime factors of a number](prime_factors.go)
+- [Program to check whether a number is Armstrong number or not](is_armstrong.go)
+- Program to print all Armstrong numbers between 1 to n (TO BE WRITTEN)
+- [Program to check whether a number is Perfect number or not](is_perfect.go)
+- Program to print all Perfect numbers between 1 to n (TO BE WRITTEN)
+- [Program to check whether a number is Strong number or not](is_strong.go)
+- Program to print all Strong numbers between 1 to n (TO BE WRITTEN)
 
 ## To be written
-- Program to enter a number and print it in words
-- Program to print all ASCII character with their values
-- Program to find power of a number using for loop
-- Program to find all factors of a number
-- Program to calculate factorial of a number
-- Program to find HCF (GCD) of two numbers
-- Program to find LCM of two numbers
-- Program to check whether a number is Prime number or not
-- Program to print all Prime numbers between 1 to n
-- Program to find sum of all prime numbers between 1 to n
-- Program to find all prime factors of a number
-- Program to check whether a number is Armstrong number or not
-- Program to print all Armstrong numbers between 1 to n
-- Program to check whether a number is Perfect number or not
-- Program to print all Perfect numbers between 1 to n
-- Program to check whether a number is Strong number or not
-- Program to print all Strong numbers between 1 to n
 - Program to print Fibonacci series up to n terms
 
 - Program to find one's complement of a binary number
