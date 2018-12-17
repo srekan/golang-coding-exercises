@@ -1,5 +1,6 @@
 # Golang Programming Exercises - Star Patterns
 
+## To be written
 - Pattern 1 - Square
     ```
     *****
@@ -109,4 +110,210 @@
     * *
     **
     *
+    ```
+- Pattern 13 - reversed mirrored right triangle 
+    ```
+    Enter number of rows: 5
+    ****
+     ***
+      **
+       *
+    ```    
+- Pattern 14 - hollow mirrored inverted right triangle 
+    ```
+    Enter number of rows: 5
+    *****
+    *  *
+    * *
+    **
+    *
+    ``` 
+- Pattern 15 - print Equilateral triangle (Pyramid) 
+    ```
+    Enter number of rows: 5
+        *
+       ***
+      *****
+     *******
+    ********* 
+    ```     
+- Pattern 16 - hollow pyramid (Equilateral triangle) 
+    ```
+    Enter number of rows: 5
+        *
+       * *
+      *   *
+     *     *
+    *********
+    ``` 
+- Pattern 17 - reverse Pyramid 
+    ```
+    Enter number of rows: 5
+    *********
+     *******
+      *****
+       ***
+        *
+    ```        
+- Pattern 18 - hollow inverted 
+pyramid
+    ```
+    Enter number of rows: 5
+    *********
+     *     *
+      *   *
+       * *
+        *
+    ```    
+- Pattern 19 - half diamond 
+    ```
+    Enter number of columns: 5
+    *
+    **
+    ***
+    ****
+    *****
+    ****
+    ***
+    **
+    * 
+    ```
+- Pattern 20 - mirrored half diamond 
+    ```
+    Enter number of columns : 5
+        *
+       **
+      ***
+     ****
+    *****
+     ****
+      ***
+       **
+        *
+    ```     
+- Pattern 21 - print diamond 
+    ```
+    Enter N: 5
+        *
+       ***
+      *****
+     *******
+    *********
+     *******
+      *****
+       ***
+        *
+    ```   
+- Pattern 22 - hollow diamond
+    ```
+    Enter value of n : 5
+    **********
+    ****  ****
+    ***    ***
+    **      **
+    *        *
+    *        *
+    **      **
+    ***    ***
+    ****  ****
+    **********
+    ```   
+- Pattern 23 - right arrow
+    ```
+    Enter value of n : 5
+    *****
+     ****
+        ***
+         **
+            *
+         **
+        ***
+     ****
+    *****
+    ```
+- Pattern 24 - left arrow 
+    ```
+    Enter value of n : 5
+        *****
+       ****
+      ***
+     **
+    *
+     **
+      ***
+       ****
+        *****
+    ```
+- Pattern 25 - Plus
+    ```
+    Enter N: 5
+        +
+        +
+        +
+        +
+    +++++++++
+        +
+        +
+        +
+        +
+    ```
+- Pattern 26 - X
+    ```
+    Enter N: 5
+    *       *
+     *     *
+      *   *
+       * *
+        *
+       * *
+      *   *
+     *     *
+    *       *
+    ```
+- Pattern 27 - 8
+    ```
+     ***
+    *   *
+    *   *
+    *   *
+     ***
+    *   *
+    *   *
+    *   *
+     ***
+    ```
+- Pattern 28 - Heart
+    ```
+    Enter value of n: 10
+      *****     *****
+     *******   *******
+    ********* *********
+    *******************
+     *****************
+      ***************
+       *************
+        ***********
+         *********
+          *******
+           *****
+            ***
+             *
+    ```
+- Pattern 29 - Heart with name
+    ```
+    Enter your name: Codeforwin
+    Enter value of n: 10
+      *****     *****
+     *******   *******
+    ********* *********
+    *****Codeforwin****
+     *****************
+      ***************
+       *************
+        ***********
+         *********
+          *******
+           *****
+            ***
+             *
     ```
